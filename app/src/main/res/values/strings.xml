@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPagerTest</string>
+    <string name="show_dialog">弹出图片选择框</string>
+    <string name="choose_photo1">选择照片1</string>
+    <string name="choose_photo2">选择照片2</string>
+    <string name="choose_photo3">选择照片3</string>
+</resources>
